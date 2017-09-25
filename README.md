@@ -14,5 +14,5 @@ http://www.ChrisMarsicano.com
 I've got a number of ongoing projects, most of which I plan on linking here.
 
 #### Confederates on Campus
-Data Visualization: http://bit.ly/CSAonCampus
-Source Code and Files: https://github.com/ChrisMarsicano/CSAonCampus
+Data Visualization: http://bit.ly/CSAonCampus/
+Source Code and Files: https://github.com/ChrisMarsicano/CSAonCampus/
