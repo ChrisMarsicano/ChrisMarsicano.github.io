@@ -10,8 +10,7 @@ https://github.com/ChrisMarsicano/ChrisMarsicano.github.io/
 You can find my WordPress site at:
 http://www.ChrisMarsicano.com
 
-## Projects
-<i>Confederates on Campus</i>
+### Projects
+#### Confederates on Campus
 Data Visualization: http://bit.ly/CSAonCampus
-
 Source Code and Files: https://github.com/ChrisMarsicano/CSAonCampus
