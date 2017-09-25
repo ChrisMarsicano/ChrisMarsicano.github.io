@@ -17,7 +17,7 @@ I've got a number of ongoing projects, most of which I plan on linking here.
 
 #### Confederates on Campus
 
-<i> A data visualization that catalogues memorials to Confederate soldiers and their cause on college campuses across the United States. </i>
+*A data visualization that catalogues memorials to Confederate soldiers and their cause on college campuses across the United States.*
 
-...* Data Visualization: http://bit.ly/CSAonCampus/
-...* Source Code and Files: https://github.com/ChrisMarsicano/CSAonCampus/
+* Data Visualization: http://bit.ly/CSAonCampus/
+* Source Code and Files: https://github.com/ChrisMarsicano/CSAonCampus/
